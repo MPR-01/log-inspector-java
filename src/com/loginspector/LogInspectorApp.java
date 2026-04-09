@@ -4,11 +4,14 @@
 
 package com.loginspector;
 
+import com.loginspector.cli.CommandHandler;
+
 public class LogInspectorApp {
 
 	public static void main(String args[]) {
 		
-		System.out.println("LogInspector starting...");
+		CommandHandler handler = new CommandHandler();
+		handler.execute(args);
 		
 	}
 	
