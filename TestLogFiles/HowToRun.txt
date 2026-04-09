@@ -1,0 +1,1 @@
+java -cp bin com.loginspector.LogInspectorApp analyze TestLogFiles/sample_small.log
