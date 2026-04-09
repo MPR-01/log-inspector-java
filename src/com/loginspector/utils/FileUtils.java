@@ -1,3 +1,7 @@
+/*
+ * This file reads through the log file and parses entries into a list of Strings for more structured processing.
+ */
+
 package com.loginspector.utils;
 
 import java.io.BufferedReader;

@@ -1,3 +1,9 @@
+/*
+ * Represents a structured log record parsed from a raw log line.
+ * Stores key components such as timestamp, log level, module, and message.
+ * Created by LogParser after parsing a log line and later used by the analyzer layer to compute statistics and insights from the logs.
+ */
+
 package com.loginspector.model;
 
 public class LogEntry {

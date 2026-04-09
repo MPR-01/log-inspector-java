@@ -1,3 +1,7 @@
+/*
+ * This is the main application class
+ */
+
 package com.loginspector;
 
 public class LogInspectorApp {
