@@ -1,0 +1,5 @@
+2026-04-09 10:01:10 INFO AuthService User login successful
+2026-04-09 10:02:11 WARN AuthService Invalid password attempt
+2026-04-09 10:03:05 INFO OrderService Order created successfully
+2026-04-09 10:04:44 ERROR PaymentService Database timeout
+2026-04-09 10:05:12 INFO AuthService Session validated

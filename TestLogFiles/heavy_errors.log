@@ -1,0 +1,6 @@
+2026-04-09 14:10:01 ERROR PaymentService Database timeout
+2026-04-09 14:10:02 ERROR PaymentService Database timeout
+2026-04-09 14:10:03 ERROR PaymentService Database timeout
+2026-04-09 14:10:04 ERROR PaymentService NullPointerException
+2026-04-09 14:10:05 ERROR PaymentService NullPointerException
+2026-04-09 14:10:06 WARN PaymentService Retry attempt

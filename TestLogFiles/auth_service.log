@@ -1,0 +1,5 @@
+2026-04-09 11:10:10 INFO AuthService Login attempt
+2026-04-09 11:10:11 INFO AuthService User authenticated
+2026-04-09 11:11:01 WARN AuthService Suspicious login detected
+2026-04-09 11:12:10 ERROR AuthService Token generation failed
+2026-04-09 11:13:44 INFO AuthService Logout successful

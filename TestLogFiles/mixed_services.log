@@ -1,0 +1,6 @@
+2026-04-09 13:20:11 INFO OrderService Order placed
+2026-04-09 13:21:44 INFO PaymentService Payment successful
+2026-04-09 13:22:10 WARN OrderService Slow response detected
+2026-04-09 13:23:03 ERROR InventoryService Stock lookup failed
+2026-04-09 13:24:55 INFO AuthService Token refreshed
+2026-04-09 13:25:01 ERROR PaymentService Gateway timeout
